@@ -46,16 +46,20 @@ All sessions take place in room 033 unless otherwise noted.
 * Hubble expansion with linear algebra
 
 ### Friday
+* Introduction to Project + Topical Lessons: 9:30 - 10:30
+* Project Work: 10:30 - 12:00
+* Pizza Lunch: 12:00 - 13:00
+* Introduction to Non-linear models: 13:00 - 14:00
+* Project Work: 14:00 - 16:00 
+* Project Presentations & Wrap Up: 16:00 - 17:00
+* Social Hour: 17:00 - 18:00
 
-* Non-linear models
-* Transient light curve
-* Pizza lunch
 
 ## Colloquia and seminars
 
 Colloquia usually are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
 
-**In addition we'll have an observing night on the roof of Peyon Hall on July 2 (with a backup on July 9 if necessary).**
+**In addition we'll have an observing night on the roof of Peyton Hall on July 2 (with a backup on July 9 if necessary).**
 
 ### Seminar schedule
 
