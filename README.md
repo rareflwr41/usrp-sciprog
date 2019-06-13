@@ -54,7 +54,6 @@ All sessions take place in room 033 unless otherwise noted.
 * Project Presentations & Wrap Up: 16:00 - 17:00
 * Social Hour: 17:00 - 18:00
 
-
 ## Colloquia and seminars
 
 Colloquia usually are held every Thursday 12:30 in the Auditorium, seminars every Tuesday 12:30 in room 033. Pizza lunch on Tuesdays.
